@@ -45,9 +45,10 @@ img {
     padding: 20px;
     border-radius: 20px;
     width: 80%;
+    margin: auto;
 }
 .img-card img {
-    width: 30%;
+    width: 80%;
     border-radius: 15px;
 }
 .imgs {
